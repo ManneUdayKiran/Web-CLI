@@ -6,7 +6,7 @@ A fully browser-based command-line interface that mimics real CLI behavior using
 ---
 
 ## screenshots
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/0d9dd00c-4608-49ac-9144-947687b08b75)
 
 
 ## 🚀 Features
